@@ -1,0 +1,11 @@
+{
+  "name": "yandex-2017-test-3",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start:dev": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
